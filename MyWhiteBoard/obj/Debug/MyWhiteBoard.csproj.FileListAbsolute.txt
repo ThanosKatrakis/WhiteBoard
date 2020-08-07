@@ -1,0 +1,10 @@
+C:\Users\k.b.8anos\source\repos\MyWhiteBoard\MyWhiteBoard\bin\Debug\MyWhiteBoard.exe.config
+C:\Users\k.b.8anos\source\repos\MyWhiteBoard\MyWhiteBoard\bin\Debug\MyWhiteBoard.exe
+C:\Users\k.b.8anos\source\repos\MyWhiteBoard\MyWhiteBoard\bin\Debug\MyWhiteBoard.pdb
+C:\Users\k.b.8anos\source\repos\MyWhiteBoard\MyWhiteBoard\obj\Debug\MyWhiteBoard.csprojAssemblyReference.cache
+C:\Users\k.b.8anos\source\repos\MyWhiteBoard\MyWhiteBoard\obj\Debug\MyWhiteBoard.Form1.resources
+C:\Users\k.b.8anos\source\repos\MyWhiteBoard\MyWhiteBoard\obj\Debug\MyWhiteBoard.Properties.Resources.resources
+C:\Users\k.b.8anos\source\repos\MyWhiteBoard\MyWhiteBoard\obj\Debug\MyWhiteBoard.csproj.GenerateResource.cache
+C:\Users\k.b.8anos\source\repos\MyWhiteBoard\MyWhiteBoard\obj\Debug\MyWhiteBoard.csproj.CoreCompileInputs.cache
+C:\Users\k.b.8anos\source\repos\MyWhiteBoard\MyWhiteBoard\obj\Debug\MyWhiteBoard.exe
+C:\Users\k.b.8anos\source\repos\MyWhiteBoard\MyWhiteBoard\obj\Debug\MyWhiteBoard.pdb

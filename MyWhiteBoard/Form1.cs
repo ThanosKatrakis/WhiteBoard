@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace MyWhiteBoard
@@ -13,7 +7,6 @@ namespace MyWhiteBoard
     public partial class Form1 : Form
     {
         Graphics g;
-
         int x = 1;
         int y = 1;
         bool moving = false;
@@ -45,7 +38,7 @@ namespace MyWhiteBoard
 
         private void panel1_MouseMove(object sender, MouseEventArgs e)
         {
-            if (moving && x !=-1 && y != -1)
+            if (moving && x != -1 && y != -1)
             {
                 g.DrawLine(pen, new Point(x, y), e.Location);
                 x = e.X;
@@ -59,6 +52,16 @@ namespace MyWhiteBoard
             x = -1;
             y = -1;
             panel1.Cursor = Cursors.Default;
+        }
+
+        private void ultraButton1_Click(object sender, EventArgs e)
+        {
+            ClearBoard();
+        }
+
+        private void ClearBoard()
+        {
+            g.Clear(Color.White);
         }
     }
 }
